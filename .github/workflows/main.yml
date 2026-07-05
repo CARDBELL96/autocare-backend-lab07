@@ -1,5 +1,4 @@
-name: Pruebas Unitarias con Jest
-
+name: Laboratorio 07 - Plan de Pruebas
 on:
   push:
     branches: [ main ]
